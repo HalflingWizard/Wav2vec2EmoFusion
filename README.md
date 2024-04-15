@@ -1,3 +1,5 @@
+# Exploring the Potential of Wav2vec2.0 for Speech Emotion Recog- nition using Classifier Combination and Attention-Based Feature Fusion
+
 This repository contains the implementation of two novel methods for Speech Emotion Recognition (SER) using the Wav2vec2.0 model, as discussed in our paper. The methods include Classifier Combination and Attention-Based Feature Fusion, which have been evaluated using the EMODB dataset.
 
 ## Description
